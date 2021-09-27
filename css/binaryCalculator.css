@@ -1,0 +1,31 @@
+body{
+    width:33%;
+}
+#res{
+    background-color:gray;
+    border:solid;
+    height:48px;
+    font-size:20px;
+}
+#button0,#button1{
+    background-color:aquamarine;
+    color:brown;
+}
+
+#buttonClr,#buttonEql{
+    background-color: green;
+    color:white;
+}
+#buttonSum,#buttonSub,#buttonMul,#buttonDiv{
+    background-color:black;
+    color:red;
+}
+button{
+
+    width:25%;
+    height:36px;
+    font-size:18px;
+    margin:0px;
+    float:left;
+
+}
